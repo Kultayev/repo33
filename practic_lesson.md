@@ -69,3 +69,5 @@ git branch <название новой ветки>
 git checkout <название ветки>
 ``` 
 ## 15. Слияние веток
+Для слияние веток используем команду *git merge*
+`git merge branch_incoming`
